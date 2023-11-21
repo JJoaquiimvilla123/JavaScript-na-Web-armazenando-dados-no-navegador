@@ -1,1 +1,1 @@
-# JavaScript-na-Web-armazenando-dados-no-navegador
+# alura-armazenando-na-web
